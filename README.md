@@ -1,2 +1,8 @@
-# redisPythonPUC
-Manipulando Dados no Redis - PUC Minas
+# Redis Python PUC
+Código desenvolvimento no módulo Manipulando Dados no Redis - PUC Minas.
+
+## Requisitos
+- Python
+- Redis
+
+
